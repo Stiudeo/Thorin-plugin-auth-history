@@ -1,7 +1,7 @@
 {
   "name": "thorin-plugin-auth-history",
   "author": "Stiudeo",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "dependencies": {
   },
   "description": "Thorin.js account history for SQL models",
@@ -9,10 +9,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Stiudeo/Thorin-plugin-auth-history"
+    "url": "https://github.com/Thorinjs/Thorin-plugin-auth-history"
   },
   "homepage": "http://thorinjs.com",
   "bugs": {
-    "url": "https://github.com/Stiudeo/Thorin-plugin-auth-history/issues"
+    "url": "https://github.com/Thorinjs/Thorin-plugin-auth-history/issues"
   }
 }
